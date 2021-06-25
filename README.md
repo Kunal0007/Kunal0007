@@ -11,6 +11,9 @@
 
 - 📫 How to reach me **kunal.kv1dr64@gmail.com**
 
+<h2>💼Work:</h2>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&locale=en" alt="kunal0007" /></p>
+
 <h2 align="left">📞Connect with me:</h2>
 <p align="left">
 <a href="https://codesandbox.com/kunal.kv1dr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kunal.kv1dr64" height="30" width="40" /></a>
@@ -27,5 +30,4 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal0007&show_icons=true&locale=en&layout=compact" alt="kunal0007" /></p>
 
-<h2>💼Work:</h2>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&locale=en" alt="kunal0007" /></p>
+
