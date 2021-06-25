@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **kunal.kv1dr64@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
 <a href="https://codesandbox.com/kunal.kv1dr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kunal.kv1dr64" height="30" width="40" /></a>
 <a href="https://instagram.com/kunalpatil0987" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="kunalpatil0987" height="30" width="40" /></a>
