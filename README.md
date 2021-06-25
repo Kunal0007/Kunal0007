@@ -27,4 +27,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal0007&show_icons=true&locale=en&layout=compact" alt="kunal0007" /></p>
 
+<h2>Work</h2>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&locale=en" alt="kunal0007" /></p>
