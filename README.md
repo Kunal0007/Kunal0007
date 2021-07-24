@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [React Shop App](https://github.com/Kunal0007/Shopping-cart), [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
 
-- 🌱 I’m currently learning **React, Angular, Typescript**
+- 🌱 I’m currently learning **React, Typescript**
 
 - 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
 
