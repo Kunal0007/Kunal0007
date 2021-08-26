@@ -1,7 +1,7 @@
-<h1 align="center">Hi 👋, I'm Kunal Patil</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kunal Patil</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007" /> </p>
 
 - 🔭 I’m currently working on [React Shop App](https://react-shopping-web.herokuapp.com), [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
 
@@ -13,10 +13,10 @@
 
 <h2>💼Work:</h2>
 <p align="center"> 
-  <img src="https://activity-graph.herokuapp.com/graph?username=kunal0007&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" />
+<!--   <img src="https://activity-graph.herokuapp.com/graph?username=kunal0007&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" /> -->
 <img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&theme=dark" alt="Stats" />
   <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
-
+</p>
 <h2 align="left">📞Connect with me:</h2>
 <p align="left">
 <a href="https://codesandbox.com/kunal.kv1dr64" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codesandbox.svg" alt="kunal.kv1dr64" height="30" width="40" /></a>
