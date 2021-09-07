@@ -14,8 +14,10 @@
 <h2>💼Work:</h2>
 <p align="center"> 
 <!--   <img src="https://activity-graph.herokuapp.com/graph?username=kunal0007&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" /> -->
-<img align="center" width="420" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&theme=dark" alt="Stats" />
-  <img align="center" width="420" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
+</p>
+<p align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
 </p>
 <h2 align="left">📞Connect with me:</h2>
 <p align="left">
