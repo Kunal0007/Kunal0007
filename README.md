@@ -3,7 +3,7 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007" /> </p>
 
-- 🔭 I’m currently working on [React Shop App](https://react-shopping-web.herokuapp.com), [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
+- 🔭 I’m currently working on [MERN-App], [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
 
 - 🌱 I’m currently learning **React, Typescript**
 
