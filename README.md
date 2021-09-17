@@ -1,7 +1,9 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kunal Patil</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+## Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40px" />, I'm Kunal Patil
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007" /> </p>
+I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chinchwad College Of Engineering, Pune.](http://www.pccoepune.com/) A Frontend Developer and an Open Source Ethuasiast.
+A passionate Frontend Developer from India
+
+<img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007"/> 
 
 - 🔭 I’m currently working on MERN-App, [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
 
@@ -10,6 +12,8 @@
 - 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
 
 - 📫 How to reach me **kunal.kv1dr64@gmail.com**
+
+![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal0007&theme=xcode)
 
 ## 📞 Connect with me:
 
@@ -31,14 +35,28 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql&logoColor=white)
 
+### Libraries & Framework :
+
+![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap)
+![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
+![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
+<a href="#"><img alt="MongoDB" src ="https://img.shields.io/badge/MongoDB-%234ea94b.svg?logo=mongodb&logoColor=white"></a>
+
+### DevOps & Cloud Tools:
+
+<a href="#"><img alt="GitHub Pages" src="https://img.shields.io/badge/GitHub%20Pages-%23327FC7.svg?logo=github&logoColor=white"></a>
+<a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku%20-%23430098.svg?logo=heroku&logoColor=white"></a>
+![Google Cloud](https://img.shields.io/badge/Google%20Cloud-black?style=flat-square&logo=google-cloud)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+<a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white"></a>
+
 <h2>📈Stats:</h2>
 <p align="center"> 
-<!--   <img src="https://activity-graph.herokuapp.com/graph?username=kunal0007&bg_color=0d1017&color=00ff00&point=11b819&area=false&line=00ff00&hide_border=true" alt="Contribution graph" /> -->
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
+
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="kunal0007" />
 </p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
-</p>
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="kunal0007" /></p>
 
 
