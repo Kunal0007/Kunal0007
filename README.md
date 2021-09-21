@@ -6,7 +6,7 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 
 - 🔭 I’m currently working on MERN-App, [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
 
-- 🌱 I’m currently learning **React, Typescript**
+- 🌱 I’m currently learning **Reactjs, Typescript, Cloud computing**
 
 - 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
 
