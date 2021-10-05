@@ -50,7 +50,7 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"></a>
 
-<h2>📈Stats:</h2>
+## 📈Stats:
 <p align="center"> 
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
