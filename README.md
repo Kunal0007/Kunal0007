@@ -4,7 +4,7 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 
 <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007"/> 
 
-- 🔭 I’m currently working on MERN-App, [Personal Portfolio](https://kunal0007.github.io/Personal_Portfolio/)
+- 🔭 I’m currently working on MERN-App
 
 - 🌱 I’m currently learning **Reactjs, Typescript, Cloud computing**
 
