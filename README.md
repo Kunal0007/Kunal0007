@@ -6,7 +6,7 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 
 - 🔭 I’m currently working on React Native App (UBER Clone)
 
-- 🌱 I’m currently learning ** DSA-JAVA, React Native **
+- 🌱 I’m currently learning ** DSA-JAVA & C++, React Native **
 
 - 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
 
