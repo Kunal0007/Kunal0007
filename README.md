@@ -14,7 +14,8 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 
 - 📫 How to reach me **kunal.kv1dr64@gmail.com**
 
-![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal0007&theme=xcode)
+![Kunal's github activity graph](https://activity-graph.herokuapp.com/graph?username=Kunal0007&amp;theme=react-dark&amp;hide_border=true&amp;area=true)
+
 
 ## 📞 Connect with me:
 
