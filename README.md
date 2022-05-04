@@ -8,7 +8,7 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 
 - 🔭 I’m currently working on React Native App, UI UX.
 
-- 🌱 I’m currently learning ** DSA-JAVA & C++, React Native, SQL **
+- 🌱 I’m currently learning ** DSA-JAVA, React Native, Next.js, SQL **
 
 - 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
 
