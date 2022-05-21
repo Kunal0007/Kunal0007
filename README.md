@@ -6,7 +6,7 @@ I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chin
 
 <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007"/> 
 
-- 🔭 I’m currently working on React Native App, Next.js app.
+- 🔭 I’m currently working on React Native App, Next.js Blog App.
 
 - 🌱 I’m currently learning ** DSA-JAVA, React Native, Next.js, SQL, PL/SQL **
 
