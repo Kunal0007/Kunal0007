@@ -7,7 +7,7 @@ A Web Developer and an Open Source Ethuasiast.
 
 <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007"/> 
 
-- 🔭 I’m currently working on React Native App, Next.js Blog App.
+- 🔭 I’m currently working on React Native App, Next.js Ecommerce App.
 
 - 🌱 I’m currently learning ** DSA-JAVA, React Native, Next.js, SQL, PL/SQL **
 
