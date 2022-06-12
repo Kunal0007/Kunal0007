@@ -20,10 +20,18 @@ A Web Developer and an Open Source Ethuasiast.
 
 ## 📞 Connect with me:
 
-![Linkedin Badge](https://img.shields.io/badge/-KunalPatil-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kunal-patil-61136521b)
-![Instagram Badge](https://img.shields.io/badge/-kunalpatil-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kunalpatil0987/)
-![Gmail Badge](https://img.shields.io/badge/-kunal.kv1dr64@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:kunal.kv1dr64@gmail.com)
-![Website Badge](https://img.shields.io/badge/-Portfolio-black?style=flat-square&logo=Github&logoColor=white&link=https://kunal0007.github.io/Personal_Portfolio/)
+<a href="https://www.linkedin.com/in/kunal-patil-61136521b">
+  <img src="https://img.shields.io/badge/-KunalPatil-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/kunalpatil0987">
+  <img src="https://img.shields.io/badge/-kunalpatil-purple?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/kunalpatil0987" />
+</a>
+<a href="https://www.linkedin.com/in/kunal-patil-61136521b">
+  <img src="https://img.shields.io/badge/-kunal.kv1dr64@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:kunal.kv1dr64@gmail.com" />
+</a>
+<a href="https://www.linkedin.com/in/kunal-patil-61136521b">
+  <img src="https://img.shields.io/badge/-Portfolio-black?style=for-the-badge&logo=Github&logoColor=white&link=https://kunal0007.github.io/Personal_Portfolio" />
+</a>
 
 ## 👨‍💻 Technologies:
 
