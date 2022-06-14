@@ -36,7 +36,7 @@ A Web Developer and an Open Source Ethuasiast.
 ## 👨‍💻 Technologies:
 
 ### Language :
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
+![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
 ![Java](https://img.shields.io/badge/-Java-E34A86?style=flat-square&logo=java&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![C](https://img.shields.io/badge/-C-E34F26?style=flat-square&logo=c&logoColor=white)
