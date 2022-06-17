@@ -47,7 +47,7 @@ A Web Developer and an Open Source Ethuasiast.
 
 ### Libraries & Framework :
 
-![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
+![React](https://img.shields.io/badge/-React-black?style=for-the-badge&logo=react)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
 ![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=OpenCV)
