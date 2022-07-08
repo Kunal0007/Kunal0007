@@ -63,11 +63,11 @@ A Web Developer and an Open Source Ethuasiast.
 <a href="#"><img alt="Postman" src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"></a>
 
 ## 📈Stats:
+![Snake animation](https://github.com/Kunal0007/Kunal0007/blob/output/github-contribution-grid-snake-dark.svg)
 <p align="center"> 
 
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=kunal0007&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="kunal0007" />
 </p>
-
 
