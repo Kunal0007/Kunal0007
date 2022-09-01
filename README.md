@@ -9,7 +9,7 @@ A Web Developer and an Open Source Ethuasiast.
 
 - 🔭 I’m currently working on React Native App, Next.js Ecommerce App.
 
-- 🌱 I’m currently learning ** DSA-JAVA, React Native, Next.js, SQL, PL/SQL **
+- 🌱 I’m currently learning ** DSA-JAVA, React Native, Next.js **
 
 - 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
 
