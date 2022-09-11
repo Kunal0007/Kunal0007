@@ -20,7 +20,7 @@ A Web Developer and an Open Source Enthusiast.
 
 ## 📞 Connect with me:
 
-<a href="https://www.linkedin.com/in/kunal-patil-61136521b">
+<a href="https://www.linkedin.com/in/kunal0007/">
   <img src="https://img.shields.io/badge/-KunalPatil-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
 </a>
 <a href="https://www.instagram.com/kunalpatil0987">
