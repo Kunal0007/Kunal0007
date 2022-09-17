@@ -2,7 +2,7 @@
 
 ## Hi 👀 , I'm Kunal Patil 
 
-I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE - Pimpri Chinchwad College Of Engineering, Pune.](http://www.pccoepune.com/) 
+I am Kunal Patil currently pursuing a BTech degree in CS at [PCCOE  - Pimpri Chinchwad College Of Engineering, Pune.](http://www.pccoepune.com/) 
 A Web Developer and an Open Source Enthusiast.
 
 <img src="https://komarev.com/ghpvc/?username=kunal0007&label=Profile%20views&color=0e75b6&style=flat" alt="kunal0007"/> 
