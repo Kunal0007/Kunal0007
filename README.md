@@ -11,7 +11,7 @@ A Web Developer and an Open Source Enthusiast.
 
 - 🌱 I’m currently learning ** DSA-JAVA, React Native, Next.js **
 
-- 👨‍💻 All of my projects will be available at [https://kunal0007.github.io/Personal_Portfolio/](https://kunal0007.github.io/Personal_Portfolio/)
+- 👨‍💻 All of my projects will be available at [https://kunal0007.netlify.app/](https://kunal0007.netlify.app/)
 
 - 📫 How to reach me **kunal.kv1dr64@gmail.com**
 
