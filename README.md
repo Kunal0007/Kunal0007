@@ -65,7 +65,6 @@ A Web Developer and an Open Source Enthusiast.
 
 
 ## 📈Stats:
-![Snake animation](https://github.com/Kunal0007/Kunal0007/blob/output/github-contribution-grid-snake-dark.svg)
 <p align="center"> 
   <img width="48%" src="https://leetcard.jacoblin.cool/Kunal0007?theme=dark&font=Karma&ext=contest" alt="Stats"/>
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=kunal0007&theme=dark" alt="Stats" />
